@@ -1,4 +1,0 @@
-ZERO_HASH = "0x" + "0" * 64
-ZERO_ADDRESS = "0x" + "0" * 40
-
-DECIMAL_MULTIPLIER = 1_000_000

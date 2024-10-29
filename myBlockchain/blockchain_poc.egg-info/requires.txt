@@ -1,0 +1,5 @@
+ecdsa
+
+[dev]
+pytest
+hypothesis

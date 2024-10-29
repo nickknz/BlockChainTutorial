@@ -1,0 +1,2 @@
+[console_scripts]
+blockchain-poc = blockchain_poc.cli:main

@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: blockchain_poc
+Version: 0.1.0
+Author: Daniel Perez
+Author-email: daniel@perez.sh
+Requires-Dist: ecdsa
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: hypothesis; extra == "dev"

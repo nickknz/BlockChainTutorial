@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "height": 119,
+  "miner": "0xac6e8d3aafa1016a5b30af05768315a90ccf78ca",
+  "nonce": 3705,
+  "hash": "0x000e67c38463df53742c364d1da1c9da5cc84ef83a69233b5c33a69c39c591aa",
+  "previous_block_header_hash": "0x000db5741fc1588a097386c17ddad525c6235d77649f181c430fde510ed9966a",
+  "timestamp": 1674574266,
+  "transactions_count": 31,
+  "transactions_merkle_root": "0x0x6eb870b60caeef83f436f09297ec13d733414c3b89926cc5d20c298ca46b7016"
+}
